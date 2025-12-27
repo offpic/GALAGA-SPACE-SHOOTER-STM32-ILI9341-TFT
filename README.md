@@ -10,3 +10,5 @@ PA10 BUTTON GND ++++++ LEFT
 PA9 BUTTON GND +++++++ PAUSE
 
 PA8 BUTTON GND ++++++ START
+
+Code from https://github.com/nure-danylov-i/stm32-ili9341-game
